@@ -1,0 +1,11 @@
+beautifulsoup4
+certifi
+charset
+coverage
+idna
+pip
+requests
+setuptools
+soupsieve
+urllib3
+wheel

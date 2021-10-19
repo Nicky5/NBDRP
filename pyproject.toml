@@ -1,0 +1,15 @@
+[build-system]
+requires = [
+    "beautifulsoup4",
+    "certifi",
+    "charset",
+    "coverage",
+    "idna",
+    "pip",
+    "requests",
+    "setuptools",
+    "soupsieve",
+    "urllib3",
+    "wheel",
+]
+build-backend = "setuptools.build_meta"
