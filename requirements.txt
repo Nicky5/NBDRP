@@ -1,6 +1,5 @@
 beautifulsoup4
 certifi
-charset
 coverage
 idna
 pip

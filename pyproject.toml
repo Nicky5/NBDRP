@@ -2,7 +2,6 @@
 requires = [
     "beautifulsoup4",
     "certifi",
-    "charset",
     "coverage",
     "idna",
     "pip",
@@ -10,6 +9,6 @@ requires = [
     "setuptools",
     "soupsieve",
     "urllib3",
-    "wheel",
+    "wheel"
 ]
 build-backend = "setuptools.build_meta"
